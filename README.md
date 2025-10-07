@@ -31,9 +31,9 @@
 ---
 
 ## 🌐 Me retrouver
-- 💼 [LinkedIn](#)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/acobe-ange-ulrich-boni/)  
 - 🖥️ [Portfolio](#)  
-- 📧 [Email professionnel](#) 
+- 📧 [Email professionnel](boniangeulrich@gmail.com)
 
 ---
 
