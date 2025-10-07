@@ -1,16 +1,56 @@
-## Hi there 👋
+# 👋 Bonjour, je suis Acobe Ange Ulrich BONI  
 
-<!--
-**angeulrichboni/angeulrichboni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **Étudiant en Data Science & Intelligence Artificielle**, passionné par le **Big Data**, le **Data Engineering** et l’**IA**.  
+🔍 Actuellement à la **recherche d’un stage PFE** pour mettre en pratique mes compétences et contribuer à des projets data ambitieux.  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 À propos de moi  
+- 💡 J’aime concevoir des solutions basées sur la donnée — de la collecte à la valorisation.  
+- 🧠 Curieux et persévérant, j’apprends continuellement sur les architectures Data modernes.  
+- ⚙️ Je crois au pouvoir du partage open-source et de la collaboration technique.  
+
+---
+
+## 🧰 Compétences & Outils
+
+| Catégorie | Technologies |
+|------------|---------------|
+| 🐍 Langages | Python, SQL |
+| ⚙️ Big Data | Spark |
+| ☁️ Orchestration | Airflow |
+| 🐳 DevOps | Docker, Git |
+| 📊 DataViz / BI | Power BI |
+
+---
+
+## 📂 Projets
+> 💬 Cette section sera bientôt enrichie avec mes projets personnels et académiques :  
+> pipelines de données, dashboards BI, modèles de machine learning, etc.
+
+---
+
+## 🌐 Me retrouver
+- 💼 [LinkedIn](#)  
+- 🖥️ [Portfolio](#)  
+- 📧 [Email professionnel](#)  
+
+---
+
+## 📈 Statistiques GitHub  
+
+<div align="center">
+
+![AngeUlrichBoni GitHub stats](https://github-readme-stats.vercel.app/api?username=angeulrichboni&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=angeulrichboni&layout=compact&theme=tokyonight&hide_border=true)
+
+</div>
+
+---
+
+## ✨ Citation favorite
+> “La donnée est le nouveau pétrole, mais la connaissance est le moteur.” 🚀  
+
+---
+
+⭐️ _N’hésite pas à explorer mes dépôts ou à me contacter pour échanger autour du Big Data, du Machine Learning ou de l’ingénierie des données !_  
